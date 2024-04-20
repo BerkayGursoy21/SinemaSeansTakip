@@ -1,6 +1,7 @@
-Proje bir Sinema salonu seans takip uygulamasıdır. Proje c# da windows form olarak tek bir ana form üzerine yapılmış, veritabanı olarak SQLite kullanılmıştır.
+Proje bir Sinema salonu seans takip uygulamasıdır. Kullanıcıdan alınan Film ismi ve seansları bir tabloya, Sinema salonu isimlerini ayrı bir tabloya kaydeder. En son kullanıcın veritabanına eklediği veya hazır bulunan film,seans,tarih ve salonun olduğu tabloyu seçip kullanıcıdan alınan ödeme bilgileri ile veritabanına kadeder. Proje c# da windows form olarak tek bir ana form üzerine yapılmış, veritabanı olarak SQLite kullanılmıştır.
 
 4 adet model dosyamız bulunmakta:
+
 Filmler: Bu kısımda Filmler hakkındaki özellikler bulunmakta.
 
 Musteri: bu kısımda sinema bileti alımı için kullanıcıdan alınan ödeme bilgileri bulunmakta.
