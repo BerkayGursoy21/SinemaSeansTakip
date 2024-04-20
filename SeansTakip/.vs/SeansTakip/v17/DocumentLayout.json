@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\SeansTakip\\SeansTakip\\SeansTakip\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C90CE37B-1D85-441A-87B1-D95BDD2527A7}|SeansTakip.csproj|c:\\users\\berka\\onedrive\\masa\u00FCst\u00FC\\seanstakip\\seanstakip\\seanstakip\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90CE37B-1D85-441A-87B1-D95BDD2527A7}|SeansTakip.csproj|solutionrelative:dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90CE37B-1D85-441A-87B1-D95BDD2527A7}|SeansTakip.csproj|C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\SeansTakip\\SeansTakip\\SeansTakip\\models\\seanslar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90CE37B-1D85-441A-87B1-D95BDD2527A7}|SeansTakip.csproj|solutionrelative:models\\seanslar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90CE37B-1D85-441A-87B1-D95BDD2527A7}|Sinematakip.csproj|C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\SeansTakip\\SeansTakip\\SeansTakip\\models\\seanslar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90CE37B-1D85-441A-87B1-D95BDD2527A7}|Sinematakip.csproj|solutionrelative:models\\seanslar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90CE37B-1D85-441A-87B1-D95BDD2527A7}|SeansTakip.csproj|C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\SeansTakip\\SeansTakip\\SeansTakip\\models\\musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90CE37B-1D85-441A-87B1-D95BDD2527A7}|SeansTakip.csproj|solutionrelative:models\\musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90CE37B-1D85-441A-87B1-D95BDD2527A7}|SeansTakip.csproj|C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\SeansTakip\\SeansTakip\\SeansTakip\\models\\filmler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90CE37B-1D85-441A-87B1-D95BDD2527A7}|SeansTakip.csproj|solutionrelative:models\\filmler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90CE37B-1D85-441A-87B1-D95BDD2527A7}|Sinematakip.csproj|C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\SeansTakip\\SeansTakip\\SeansTakip\\models\\musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90CE37B-1D85-441A-87B1-D95BDD2527A7}|Sinematakip.csproj|solutionrelative:models\\musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90CE37B-1D85-441A-87B1-D95BDD2527A7}|SeansTakip.csproj|C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\SeansTakip\\SeansTakip\\SeansTakip\\models\\sinemasalon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90CE37B-1D85-441A-87B1-D95BDD2527A7}|SeansTakip.csproj|solutionrelative:models\\sinemasalon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Musteri.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\SeansTakip\\SeansTakip\\SeansTakip\\Models\\Musteri.cs",
+              "RelativeDocumentMoniker": "Models\\Musteri.cs",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\SeansTakip\\SeansTakip\\SeansTakip\\Models\\Musteri.cs",
+              "RelativeToolTip": "Models\\Musteri.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T17:46:01.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Seanslar.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\SeansTakip\\SeansTakip\\SeansTakip\\Models\\Seanslar.cs",
+              "RelativeDocumentMoniker": "Models\\Seanslar.cs",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\SeansTakip\\SeansTakip\\SeansTakip\\Models\\Seanslar.cs",
+              "RelativeToolTip": "Models\\Seanslar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T17:45:35.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Seanslar.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\SeansTakip\\SeansTakip\\SeansTakip\\Models\\Seanslar.cs",
+              "RelativeDocumentMoniker": "Models\\Seanslar.cs",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\SeansTakip\\SeansTakip\\SeansTakip\\Models\\Seanslar.cs",
+              "RelativeToolTip": "Models\\Seanslar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T17:30:04.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Filmler.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\SeansTakip\\SeansTakip\\SeansTakip\\Models\\Filmler.cs",
+              "RelativeDocumentMoniker": "Models\\Filmler.cs",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\SeansTakip\\SeansTakip\\SeansTakip\\Models\\Filmler.cs",
+              "RelativeToolTip": "Models\\Filmler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T17:45:15.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\SeansTakip\\SeansTakip\\SeansTakip\\DBContext.cs",
+              "RelativeDocumentMoniker": "DBContext.cs",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\SeansTakip\\SeansTakip\\SeansTakip\\DBContext.cs",
+              "RelativeToolTip": "DBContext.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T17:46:52.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Musteri.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\SeansTakip\\SeansTakip\\SeansTakip\\Models\\Musteri.cs",
+              "RelativeDocumentMoniker": "Models\\Musteri.cs",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\SeansTakip\\SeansTakip\\SeansTakip\\Models\\Musteri.cs",
+              "RelativeToolTip": "Models\\Musteri.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T17:30:04.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SinemaSalon.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\SeansTakip\\SeansTakip\\SeansTakip\\Models\\SinemaSalon.cs",
+              "RelativeDocumentMoniker": "Models\\SinemaSalon.cs",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\SeansTakip\\SeansTakip\\SeansTakip\\Models\\SinemaSalon.cs",
+              "RelativeToolTip": "Models\\SinemaSalon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T17:45:17.894Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
